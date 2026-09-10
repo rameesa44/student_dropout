@@ -17,7 +17,6 @@ try:
         scaler = pickle.load(f)
     model_loaded = True
 except Exception as e:
-    st.warning("⚠️ Model files (.pkl) not loaded. System running in simulation mode.")
     model_loaded = False
 
 # Layout - Inputs
