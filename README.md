@@ -205,7 +205,7 @@ student-dropout-prediction/
 ├── dropout_model.pkl
 ├── dropout_scaler.pkl
 ├── requirements.txt
-├── Student_Dropout_Prediction.ipynb
+├── PROJECT.ipynb
 └── README.md
 ```
 
@@ -217,7 +217,7 @@ student-dropout-prediction/
 | `dropout_model.pkl`                | Trained Logistic Regression model |
 | `dropout_scaler.pkl`               | Saved StandardScaler              |
 | `requirements.txt`                 | Project dependencies              |
-| `Student_Dropout_Prediction.ipynb` | Complete ML workflow and analysis |
+| `PROJECT.ipynb` | Complete ML workflow and analysis |
 | `README.md`                        | Project documentation             |
 
 ---
